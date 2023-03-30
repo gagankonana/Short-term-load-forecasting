@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+keras
+math
+sklearn
+scipy
+statsmodels
+xlrd
+pybrain
